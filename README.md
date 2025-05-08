@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frankiempike
-- 👀 I’m interested in data science, journalism, and democracy.
+- 👀 I’m interested in data science, equity, and democracy.
 - 🌱 I’m adept at Python, SQL, and R.
-- 💞️ I’m looking to collaborate on studying how consolidation of media companies impacts coverage. 
 - 📫 You can reach me at frankiep@umich.edu.
 
 <!---
