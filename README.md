@@ -1,4 +1,4 @@
-My name is Frankie Pike. I’m a data scientist and Chicagoan working in Python, SQL, and R. I'm especially interested in using those tools to research equity, democracy, and natural language. You can reach me at [frankiep@umich.edu](mailto:frankiep@umich.edu).
+My name is Frankie Pike. I’m a data scientist and Chicagoan working in Python, SQL, and R. I'm especially interested in equity, democracy, and natural language processing. You can reach me at [frankiep@umich.edu](mailto:frankiep@umich.edu).
 
 ## My Projects
 * [Predicting Ridership at the Chicago Transit Authority’s ‘L’ Stations](https://github.com/azcao95/cta-ridership-w2026-mads-milestone-2)
