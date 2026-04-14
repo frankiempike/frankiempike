@@ -2,6 +2,7 @@ My name is Frankie Pike. I’m a data scientist and Chicagoan working in Python,
 
 ## My Projects
 * [Predicting Ridership at the Chicago Transit Authority’s ‘L’ Stations](https://github.com/azcao95/cta-ridership-w2026-mads-milestone-2)
+* [Analysis of Chicago Crime Clearance Rates Across Communities, Socioeconomic Factors, and Types of Crimes (2020–2026)](https://github.com/frankiempike/chicago-crime-clearance-equity-study)
 * [Analysis of 2020-2024 U.S. Employment-Based Immigration Applications](https://github.com/frankiempike/EmploymentBasedImmigration)
 <!---
 frankiempike/frankiempike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
