@@ -1,6 +1,7 @@
 My name is Frankie Pike. I’m a data scientist and Chicagoan working in Python, SQL, and R. I'm especially interested in equity, democracy, and natural language processing. You can reach me at [frankiep@umich.edu](mailto:frankiep@umich.edu).
 
 ## My Projects
+* [Claim-Aware Propaganda Scanner: Model Training & Google Chrome Extension](https://github.com/frankiempike/Claim-Aware_Propaganda_Scanner)
 * [Predicting Ridership at the Chicago Transit Authority’s ‘L’ Stations](https://github.com/azcao95/cta-ridership-w2026-mads-milestone-2)
 * [Analysis of Chicago Crime Clearance Rates Across Communities, Socioeconomic Factors, and Types of Crimes (2020–2026)](https://github.com/frankiempike/chicago-crime-clearance-equity-study)
 * [Analysis of 2020-2024 U.S. Employment-Based Immigration Applications](https://github.com/frankiempike/EmploymentBasedImmigration)
